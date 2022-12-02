@@ -4,7 +4,7 @@ This chrome extension allows users to add urls to their local storage in order t
 
 ## Getting Started
 Download and unzip the code file.
-Open Google Chrome extension mnager, make sure Dev mode is turned on.
+Open Google Chrome extension manager, make sure Dev mode is turned on.
 Click on "load unpacked and select the root file.
 
 **Make sure to refresh the page if it is already open.**
